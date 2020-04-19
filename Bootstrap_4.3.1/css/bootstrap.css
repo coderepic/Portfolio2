@@ -2422,8 +2422,9 @@ fieldset:disabled a.btn {
 
 .btn-primary {
   color: #fff;
-  background-color: #007bff;
-  border-color: #007bff;
+  background-color: #002fff;
+  border-color: #002fff;
+  border-radius: 0;
 }
 
 .btn-primary:hover {
@@ -4850,7 +4851,7 @@ input[type="button"].btn-block {
   padding: 0.5rem 0.75rem;
   margin-left: -1px;
   line-height: 1.25;
-  color: #007bff;
+  color: #002fff;
   background-color: #fff;
   border: 1px solid #dee2e6;
 }
