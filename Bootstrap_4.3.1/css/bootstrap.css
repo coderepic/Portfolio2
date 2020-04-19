@@ -4114,13 +4114,13 @@ input[type="button"].btn-block {
 }
 
 .nav-pills .nav-link {
-  border-radius: 0.25rem;
+  border-radius: 0;
 }
 
 .nav-pills .nav-link.active,
 .nav-pills .show > .nav-link {
   color: #fff;
-  background-color: #007bff;
+  background-color: #002fff;
 }
 
 .nav-fill .nav-item {
@@ -5088,7 +5088,7 @@ a.badge-dark:focus, a.badge-dark.focus {
 .jumbotron {
   padding: 2rem 1rem;
   margin-bottom: 2rem;
-  background-color: #dbf1ff;
+  background-color: #000000;
   border-radius: 0.3rem;
   border: 1.5px solid rgb(0, 0, 0);
 }
@@ -10069,6 +10069,7 @@ a.text-dark:hover, a.text-dark:focus {
 
 .BannerText {
   text-align: center;
+  color: white;
 }
 
 .Resume_Header {
