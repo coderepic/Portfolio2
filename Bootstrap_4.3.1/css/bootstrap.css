@@ -10087,4 +10087,10 @@ a.text-dark:hover, a.text-dark:focus {
 .home-page-header {
   text-align: center;
 }
+
+.home-page-image {
+  display: block;
+  margin: 0 auto;
+  width: 90%;
+}
 /*# sourceMappingURL=bootstrap.css.map */
