@@ -10066,6 +10066,7 @@ a.text-dark:hover, a.text-dark:focus {
   float: left; 
   margin-right: 15px;
   margin-bottom: 10px;
+  width: 500px;
 }
 
 .BannerText {
