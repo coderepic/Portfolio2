@@ -10096,8 +10096,9 @@ a.text-dark:hover, a.text-dark:focus {
 .home-page-image {
   display: block;
   margin: 0 auto;
-  width: 500px;
-  height: 350px;
+  width: 100%;
+  /*width: 500px;*/
+  /*height: 350px;*/
   margin-top: 0px;
   margin-bottom: 20px;
 }
